@@ -19,7 +19,7 @@ import numpy as np
 
 
 path = '/Users/dhravid/Desktop/CT_data/image1/'
-
+l
 filename = '$534890_CT_0__0000.DCM'
 
 # read one dicom file
